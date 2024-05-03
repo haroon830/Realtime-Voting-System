@@ -1,3 +1,3 @@
-# Realtime-Voting-System-in-JAVA
+# Realtime Voting System
 
-Real time voting system in java OOP
+Real-time Voting System implemented in Java using Object-Oriented Programming principles.
